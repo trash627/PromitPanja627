@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PromitPanja627
-- 👀 I’m interested in Embedded Systems and Web Devolopment
-- 🌱 I’m currently learning Game Devolopment
+- 👀 I’m interested in Embedded Systems and Game Development
+- 🌱 I’m currently pursuing my masters in computer engineering
 - 📫 Reach me via email at promitpanja627@gmail.com
 
 <!---
