@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PromitPanja627
+- 👋 Hi, I’m @trash627
 - 👀 I’m interested in Embedded Systems and Game Development
 - 🌱 I’m currently pursuing my masters in computer engineering
 - 📫 Reach me via email at promitpanja627@gmail.com
