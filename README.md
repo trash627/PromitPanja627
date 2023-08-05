@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trash627
 - 👀 I’m interested in Cyber-Physical Systems, Autonomous Systems, Real-Time Systems, and Game Development
-- 🌱 I’m currently pursuing my master's in computer engineering
+- 🌱 I’m currently pursuing my Master's in Computer Engineering from Virginia Tech
 - 📫 Reach me via email at ppanja@vt.edu
 
 <!---
