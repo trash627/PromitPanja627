@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trash627
-- 👀 I’m interested in Cyber-Physical Systems, Safe Autonomous Systems, and Robotics.
-- 🌱 I’m currently pursuing my Master's in Computer Engineering from Virginia Tech.
-- 📫 Reach me via email at ppanja@vt.edu
+- 👀 I’m interested in Formal Methods, Safe Autonomous Systems, Cyber-Physical Systems, and Safe AI.
+- 🌱 I’m pursuing my PhD in Theoretical Computer Science from Karlsruhe Institute of Technology (KIT).
+- 📫 Reach me via email at promit [dot] panja [at] kit [dot] edu
 
 <!---
 PromitPanja627/PromitPanja627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
